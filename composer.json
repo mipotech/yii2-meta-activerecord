@@ -1,0 +1,21 @@
+{
+    "name": "mipotech/yii2-meta-activerecord",
+    "description": "Providers WordPress-like meta table functionality for tables represented by an ActiveRecord class",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","activerecord"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Chaim Leichman",
+            "email": "chaim@mipo.co.il"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mipotech\\metaActiveRecord\\": ""
+        }
+    }
+}
