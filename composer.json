@@ -17,5 +17,11 @@
         "psr-4": {
             "mipotech\\metaActiveRecord\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/mipotech/yii2-meta-activerecord"
+        }
+    ]
 }
